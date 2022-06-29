@@ -1,1 +1,1 @@
-# ERC20-Airdrop
+# ERC20 Airdrop
